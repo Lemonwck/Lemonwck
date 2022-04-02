@@ -5,7 +5,4 @@
 
 ### 开心学习 愉悦编程 🔭 [https://github/Lemonwck](https://github.com/Lemonwck)
 
-[![Lemonwck's github stats](https://github-readme-stats.vercel.app/api?username=Lemonwck)](https://github.com/anuraghazra/github-readme-stats)
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Lemonwck&layout=compact)
-
 ![image](./image/Lemon_wck.png)
